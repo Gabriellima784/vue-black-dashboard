@@ -38,6 +38,7 @@
     z-index: 4;
     position: relative;
     overflow: auto;
+    background-color: yellow;
 
     .dropdown .dropdown-backdrop {
       display: none !important;
@@ -240,7 +241,7 @@
     p {
       margin: 0;
       font-weight: $font-weight-bold;
-      color: rgba($white, 0.8);
+      color: $black;
       line-height: 30px;
       position: relative;
       display: block;
@@ -256,7 +257,7 @@
       line-height: 30px;
       width: 34px;
       text-align: center;
-      color: $opacity-8;
+      color: $black;
       position: relative;
     }
   }
@@ -310,7 +311,7 @@
       right: 15px;
       height: 1px;
       width: calc(100% - 30px);
-      background: $opacity-5;
+      background: $black;
     }
 
     p {

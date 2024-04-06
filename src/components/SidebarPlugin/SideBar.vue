@@ -19,8 +19,8 @@
             />
           </div>
         </a>
-        <a href="http://www.creative-tim.com" class="simple-text logo-normal">
-          {{ title }}
+        <a href="https://www.tridia.com.br/" class="simple-text logo-normal" style="color: black; font-weight: bold;">
+          TRIDIA
         </a>
       </div>
       <slot> </slot>
